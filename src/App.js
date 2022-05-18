@@ -1,11 +1,15 @@
 import "./App.css";
+import Form from "./components/Form";
+import TodoList from "./components/TodoList";
 
 function App() {
   return (
-    <div>
-      <h2>Github Pages</h2>
-      <h3>Deploying React to Github</h3>
-      <h4>hello world</h4>
+    <div className="App">
+      <header>
+        <h1>Valerie's to do list</h1>
+      </header>
+      <Form />
+      <TodoList />
     </div>
   );
 }
