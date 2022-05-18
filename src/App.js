@@ -27,9 +27,11 @@ function App() {
   };
 
   //useEffect
+  //Runs every time todos, or status changes
   useEffect(() => {
     filterHandler();
   }, [todos, status]);
+
   return (
     <div className="App">
       <header>
