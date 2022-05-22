@@ -1,8 +1,8 @@
 TO DO LIST REACT
 
-![alt text](./src/screenshot.png)
+![alt text](./screenshot.png)
 
-https://val0sch.github.io/To-Do-List/ \
+https://val0sch.github.io/To-Do-List/
 
 -Création de composant \
 -Props \
