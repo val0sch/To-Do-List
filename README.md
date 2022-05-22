@@ -2,7 +2,7 @@ TO DO LIST REACT
 
 https://val0sch.github.io/To-Do-List/
 
-![alt text](./screenshot.png)
+![alt text](./src/screenshot.png)
 
 -Création de composant \
 -Props \
